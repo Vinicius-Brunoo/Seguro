@@ -7,6 +7,7 @@ export type Quote = {
   nome: string | null;
   sobrenome: string | null;
   cpf: string | null;
+  estado_civil: string | null;
   placa: string | null;
   cep: string | null;
   tipo_moradia: string | null;

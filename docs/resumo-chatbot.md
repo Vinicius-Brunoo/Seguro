@@ -76,6 +76,7 @@ tipo_cliente
 nome
 sobrenome
 cpf
+estado_civil
 data_nascimento
 genero
 
@@ -121,6 +122,8 @@ Nome
 Sobrenome
 
 CPF
+
+Estado civil
 
 Nascimento
 

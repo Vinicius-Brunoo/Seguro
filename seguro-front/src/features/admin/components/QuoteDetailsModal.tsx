@@ -38,6 +38,7 @@ export function QuoteDetailsModal({ quote, onClose }: QuoteDetailsModalProps) {
     { label: 'Nome', value: formatEmpty(quote.nome) },
     { label: 'Sobrenome', value: formatEmpty(quote.sobrenome) },
     { label: 'CPF', value: formatEmpty(quote.cpf) },
+    { label: 'Estado Civil', value: formatEmpty(quote.estado_civil) },
     { label: 'CEP', value: formatEmpty(quote.cep) },
     { label: 'Placa', value: formatEmpty(quote.placa) },
     { label: 'Tipo Moradia', value: formatEmpty(quote.tipo_moradia) },
